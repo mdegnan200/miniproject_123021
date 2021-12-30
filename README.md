@@ -13,5 +13,6 @@ Notes:
   Message is printed to note the winner. 
   Allowance is made for upper/lower case entry.  For instance, Paper will be understood the same as PAPER.  
   If an invlalid entry is made, a message will be displayed that there is no winner.
-  If both players pick the same selection, a message will be displayed that there is no winner. 
+  If both players pick the same selection, a message will be displayed that there is no winner.
+  An entry of 'quit' (case sensitive) will break the while loop and end the game. 
  
